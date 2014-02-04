@@ -2,7 +2,7 @@
 lock '3.1.0'
 
 set :application, 'radio'
-set :repo_url, '~/pr0n/radio'
+set :repo_url, 'https://github.com/mess110/radio.git'
 
 # Default branch is :master
 # ask :branch, proc { `git rev-parse --abbrev-ref HEAD`.chomp }
